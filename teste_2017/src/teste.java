@@ -16,6 +16,7 @@ public class teste {
     public static void main(String[] args) {
     System.out.println("bem vindo ao java");
     System.out.println("o java possui interface grafica");
+    System.out.println("eu farei projetos nessa IDE");
     }
     
 }
