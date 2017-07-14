@@ -17,7 +17,7 @@ public class teste {
     System.out.println("bem vindo ao java");
     System.out.println("o java possui interface grafica");
     System.out.println("eu farei projetos nessa IDE");
-    System.out.println("os projetos são importantes para o desenvolvimento da sociedade");
+    System.out.println("os projetos sao importantes para o desenvolvimento da sociedade");
     }
     
 }
