@@ -20,6 +20,7 @@ public class teste {
     System.out.println("os projetos sao importantes para o desenvolvimento da sociedade");
     System.out.println("eu vou passar em GP");
     System.out.println("vou passar com uma nota boa");
+    System.out.println("tudo de bom");
     
     }
     
